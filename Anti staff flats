@@ -18,7 +18,7 @@ local STAFF_ROLES = {
 local ROLE_LOAD_ORDER = {
     "Investor",
     "Manager",
-	  "Co-Owner",
+	"Co-Owner",
     "Owner",
 }
 
